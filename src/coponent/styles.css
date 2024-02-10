@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(245, 245, 68);
+  text-align: center;
+}
+
+button:hover {
+  background-color: rgb(223, 69, 69);
+}
+
+button {
+  margin-left: 14px;
+  justify-content: space-evenly;
+}
+ul {
+  margin-left: 100px;
+  display: block;
+}
+li {
+  margin-left: 23px;
+  justify-content: center;
+  padding: 5px;
+}
